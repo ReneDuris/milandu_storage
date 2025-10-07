@@ -1,0 +1,79 @@
+{
+  "artist": {
+    "name": "Milan Duriš",
+    "title": "Maliar",
+    "bio": "Maľujem už niekoľko rokov a stále sa učím nové techniky. Rád skúšam rôzne štýly - od klasických portrétov až po moderné abstraktné obrazy.",
+    "longBio": "Pracujem hlavne s olejovými farbami. Niektoré obrazy majú konkrétny motív, iné sú čisto abstraktné. Každý obraz ma iný príbeh.",
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop&crop=faces",
+    "experienceYears": 3
+  },
+  "contact": {
+    "email": "milandu258@gmail.com",
+    "phone": "+421 902 683 425",
+    "address": "919 26 Zavar"
+  },
+  "socials": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/milan.duriss",
+      "username": "milan.duriss",
+      "label": "Facebook"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/milandu3",
+      "username": "milandu3",
+      "label": "Instagram"
+    }
+  ],
+  "stats": [
+    {
+      "icon": "Palette",
+      "label": "Namalovaných Obrazov",
+      "value": "45+"
+    },
+    {
+      "icon": "Users",
+      "label": "Rokov Maľujem",
+      "value": "3"
+    },
+    {
+      "icon": "Award",
+      "label": "Predaných Obrazov",
+      "value": "8"
+    },
+    {
+      "icon": "Heart",
+      "label": "Spoľahlivých Zákazníkov",
+      "value": "12"
+    }
+  ],
+  "footer": {
+    "description": "Maľujem obrazy rôznych štýlov a veľkostí. Ak máte záujem o niektory z obrazov, kontaktujte ma.",
+    "copyrightText": "Všetky práva vyhradené.",
+    "tagline": "Maľovanie s láskou k umeniu"
+  },
+  "hero": {
+    "title": "Vitajte v mojej galérii",
+    "subtitle": "Slovenský maľiar",
+    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné a vytvorené s láskou k umeniu.",
+    "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
+  },
+  "gallery": {
+    "title": "Galéria",
+    "subtitle": "Moja tvorba"
+  },
+  "metadata": {
+    "siteName": "Milan Duriš - Maľiar",
+    "description": "Slovenský maľiar Milan Duriš. Originálne obrazy rôznych štýlov a veľkostí.",
+    "keywords": [
+      "maľiar",
+      "obrazy",
+      "umenie",
+      "slovakia",
+      "art",
+      "painting"
+    ]
+  },
+  "lastUpdated": "2025-10-07T21:58:43.862Z"
+}

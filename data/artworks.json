@@ -105,31 +105,6 @@
     "featured": true
   },
   {
-    "id": "6",
-    "title": "Šepot prírody",
-    "artist": {
-      "id": "1",
-      "name": "Milan Duriš",
-      "bio": "Maľujem už niekoľko rokov a stále sa učím. Rád skúšam rôzne techniky a štýly - od klasických portrétov až po moderné abstraktné obrazy.",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces",
-      "website": "https://milanduris.art",
-      "instagram": "@milan_duris_art"
-    },
-    "description": "Intímny portrét jemnej krásy prírody zachytený prostřednictvóm inovatívneho textilného a kombinovaného prístupu.",
-    "images": [
-      "blob:http://localhost:5173/9286eb5c-d762-4007-acee-2db7dab717a8"
-    ],
-    "price": 3200,
-    "status": "sold",
-    "dimensions": {
-      "width": 80,
-      "height": 50
-    },
-    "medium": "Textilné umenie",
-    "year": 2024,
-    "category": "Kombinované techniky"
-  },
-  {
     "title": "GtihubTest",
     "artist": {
       "id": "milan-duris",

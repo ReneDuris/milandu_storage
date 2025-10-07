@@ -1,25 +1,26 @@
 [
   {
-    "title": "GtihubTest",
+    "title": "miladnu",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "olejimabla",
+    "description": "sdfs",
     "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759842698924_0.png"
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759843025658_0.jpg",
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759843033608_0.webp"
     ],
     "year": 2025,
-    "medium": "olejomalba",
+    "medium": "nuc",
     "dimensions": {
-      "width": 60,
-      "height": 80
+      "width": 20,
+      "height": 10
     },
-    "price": 200,
-    "status": "available",
+    "price": 10,
+    "status": "showcase",
     "category": "oil-painting",
-    "id": "artwork-1759842705598-j0q9l8iau"
+    "id": "artwork-1759843036704-lblzld2sa"
   }
 ]

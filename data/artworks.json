@@ -69,26 +69,26 @@
     "id": "artwork-1759872058469-icr4qpo31"
   },
   {
-    "title": "Ovocný stôl",
+    "title": "Plachetnica",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "Zátišie na stole",
+    "description": "Na vlnách mora",
     "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872145175_0.jpg"
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872195710_0.jpg"
     ],
     "year": 2025,
     "medium": "Olejomaľba",
     "dimensions": {
-      "width": 50,
+      "width": 60,
       "height": 60
     },
     "price": 40,
     "status": "available",
     "category": "oil-painting",
-    "id": "artwork-1759872186929-k1lejdku5"
+    "id": "artwork-1759872221215-srrurqdam"
   }
 ]

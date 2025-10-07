@@ -21,5 +21,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1759845140337-v5iybr1t2"
+  },
+  {
+    "title": "gggg",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "xxxxxxxxxxxxx",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759871935282_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "sss",
+    "dimensions": {
+      "width": 10,
+      "height": 20
+    },
+    "price": 10,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1759871939917-4qce2iuh7"
   }
 ]

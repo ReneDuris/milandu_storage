@@ -1,32 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Mestské sn8",
-    "artist": {
-      "id": "1",
-      "name": "Milan Duriš",
-      "bio": "Maľujem už niekoľko rokov a stále sa učím. Rád skúšam rôzne techniky a štýly - od klasických portrétov až po moderné abstraktné obrazy.",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces",
-      "website": "https://milanduris.art",
-      "instagram": "@milan_duris_art"
-    },
-    "description": "Živý obraz mestského života s výraznými farbami a dynamickými ťahmi štetca. Snažím sa zachytiť energiu a pohyb veľkomesta.",
-    "images": [
-      "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop"
-    ],
-    "price": 2500,
-    "status": "available",
-    "dimensions": {
-      "width": 40,
-      "height": 20
-    },
-    "medium": "Akryl na plátne",
-    "year": 2025,
-    "category": "Abstraktné",
-    "featured": true
-  },
-  {
     "id": "2",
     "title": "Digitálne vedomie",
     "artist": {

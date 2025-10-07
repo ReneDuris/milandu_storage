@@ -1,26 +1,26 @@
 [
   {
-    "title": "xxxx",
+    "title": "gggg",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "xxxx",
+    "description": "xxxxxxxxxxxxx",
     "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759845138191_0.jpg"
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759871935282_0.jpg"
     ],
     "year": 2025,
-    "medium": "xxxx",
+    "medium": "sss",
     "dimensions": {
       "width": 10,
-      "height": 10
+      "height": 20
     },
     "price": 10,
     "status": "available",
     "category": "oil-painting",
-    "id": "artwork-1759845140337-v5iybr1t2"
+    "id": "artwork-1759871939917-4qce2iuh7"
   },
   {
     "title": "xxx",
@@ -46,27 +46,27 @@
     "id": "artwork-1759871972373-v14bwkumq"
   },
   {
-    "title": "xxxxxx",
+    "title": "Ovocný stôl",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "xxxxxxxxxxxx",
+    "description": "Zátišie na stole",
     "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872055819_0.jpg"
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872145175_0.jpg"
     ],
     "year": 2025,
-    "medium": "xxxxxxxxxx",
+    "medium": "Olejomaľba",
     "dimensions": {
-      "width": 20,
-      "height": 40
+      "width": 50,
+      "height": 60
     },
-    "price": 30,
+    "price": 40,
     "status": "available",
     "category": "oil-painting",
-    "id": "artwork-1759872058469-icr4qpo31"
+    "id": "artwork-1759872186929-k1lejdku5"
   },
   {
     "title": "Plachetnica",

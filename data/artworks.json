@@ -1,2 +1,25 @@
 [
+  {
+    "title": "milandu",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "toto je test",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759844944522_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "olejomabla",
+    "dimensions": {
+      "width": 20,
+      "height": 40
+    },
+    "price": 30,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1759844947454-9po5mpcj2"
+  }
 ]

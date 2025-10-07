@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Mestské sny",
+    "title": "Mestské sn8",
     "artist": {
       "id": "1",
       "name": "Milan Duriš",
@@ -18,11 +18,11 @@
     "price": 2500,
     "status": "available",
     "dimensions": {
-      "width": 36,
-      "height": 48
+      "width": 40,
+      "height": 20
     },
     "medium": "Akryl na plátne",
-    "year": 2024,
+    "year": 2025,
     "category": "Abstraktné",
     "featured": true
   },

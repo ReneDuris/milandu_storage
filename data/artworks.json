@@ -1,26 +1,26 @@
 [
   {
-    "title": "gggg",
+    "title": "xxxx",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "xxxxxxxxxxxxx",
+    "description": "xxxx",
     "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759871935282_0.jpg"
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759845138191_0.jpg"
     ],
     "year": 2025,
-    "medium": "sss",
+    "medium": "xxxx",
     "dimensions": {
       "width": 10,
-      "height": 20
+      "height": 10
     },
     "price": 10,
     "status": "available",
     "category": "oil-painting",
-    "id": "artwork-1759871939917-4qce2iuh7"
+    "id": "artwork-1759845140337-v5iybr1t2"
   },
   {
     "title": "xxx",
@@ -44,5 +44,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1759871972373-v14bwkumq"
+  },
+  {
+    "title": "xxxxxx",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "xxxxxxxxxxxx",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872055819_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "xxxxxxxxxx",
+    "dimensions": {
+      "width": 20,
+      "height": 40
+    },
+    "price": 30,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1759872058469-icr4qpo31"
   }
 ]

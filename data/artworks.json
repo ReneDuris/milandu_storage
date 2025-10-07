@@ -1,28 +1,5 @@
 [
   {
-    "title": "xxx",
-    "artist": {
-      "id": "milan-duris",
-      "name": "Milan Duriš",
-      "bio": "Slovenský maliar",
-      "avatar": "/api/placeholder/100/100"
-    },
-    "description": "xxxxxxxxxxxxxxxxxx",
-    "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759871968228_0.jpg"
-    ],
-    "year": 2025,
-    "medium": "abc",
-    "dimensions": {
-      "width": 10,
-      "height": 20
-    },
-    "price": 40,
-    "status": "available",
-    "category": "oil-painting",
-    "id": "artwork-1759871972373-v14bwkumq"
-  },
-  {
     "title": "Ovocný stôl",
     "artist": {
       "id": "milan-duris",

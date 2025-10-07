@@ -27,31 +27,6 @@
     "category": "Digitálne umenie"
   },
   {
-    "id": "3",
-    "title": "Fragmenty spômînok",
-    "artist": {
-      "id": "1",
-      "name": "Milan Duriš",
-      "bio": "Maľujem už niekoľko rokov a stále sa učím. Rád skúšam rôzne techniky a štýly - od klasických portrétov až po moderné abstraktné obrazy.",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces",
-      "website": "https://milanduris.art",
-      "instagram": "@milan_duris_art"
-    },
-    "description": "Veľmi osobné skúmanie spômînok a času. Ukazuje moju všestrannost̊ v kombinovaných technikách.",
-    "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop"
-    ],
-    "status": "sold",
-    "dimensions": {
-      "width": 30,
-      "height": 40
-    },
-    "medium": "Kombinované techniky",
-    "year": 2023,
-    "category": "Fotografia"
-  },
-  {
     "title": "GtihubTest",
     "artist": {
       "id": "milan-duris",

@@ -1,32 +1,5 @@
 [
   {
-    "id": "2",
-    "title": "Digitálne vedomie",
-    "artist": {
-      "id": "1",
-      "name": "Milan Duriš",
-      "bio": "Maľujem už niekoľko rokov a stále sa učím. Rád skúšam rôzne techniky a štýly - od klasických portrétov až po moderné abstraktné obrazy.",
-      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces",
-      "website": "https://milanduris.art",
-      "instagram": "@milan_duris_art"
-    },
-    "description": "Digitálna instalácia, ktorá skúma hranice medzi ľudským vedomím a umelou inteligenciou. Môj výlet do digitálneho sveta.",
-    "images": [
-      "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=600&fit=crop"
-    ],
-    "price": 4500,
-    "status": "available",
-    "dimensions": {
-      "width": 72,
-      "height": 48,
-      "depth": 24
-    },
-    "medium": "Digitálna instalácia",
-    "year": 2024,
-    "category": "Digitálne umenie"
-  },
-  {
     "title": "GtihubTest",
     "artist": {
       "id": "milan-duris",

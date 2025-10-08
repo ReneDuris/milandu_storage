@@ -29,7 +29,7 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "N Obrazov",
+      "label": "Namaľ Obrazov",
       "value": "45+"
     },
     {
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:55:50.609Z"
+  "lastUpdated": "2025-10-08T12:55:52.273Z"
 }

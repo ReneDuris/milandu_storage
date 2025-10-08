@@ -56,7 +56,7 @@
   "hero": {
     "title": "Vitajte v mojej galérii",
     "subtitle": "Slovenský Maliar",
-    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedn",
+    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné n",
     "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
   },
   "gallery": {
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:59:51.957Z"
+  "lastUpdated": "2025-10-08T12:59:52.555Z"
 }

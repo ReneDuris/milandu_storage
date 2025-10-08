@@ -44,15 +44,14 @@
     }
   ],
   "footer": {
-    "description": "Maľujem obrazy rôznych velkostí­. Ak máte záujem o niektorí z obrazov, kontaktujte ma.",
+    "description": "Maľujem obrazy rôznych veľkostí­. Ak máte záujem o niektorí z obrazov, kontaktujte ma.",
     "copyrightText": "Všetky práva vyhradené ©.",
     "tagline": "Milan Ďuriš - umelec"
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
     "subtitle": "Originálny Maliar",
-    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné namiešané originálnymi farbami.",
-    "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
+    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné namiešané originálnymi farbami."
   },
   "gallery": {
     "title": "Galéria",
@@ -70,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T14:04:03.026Z"
+  "lastUpdated": "2025-10-08T14:07:27.003Z"
 }

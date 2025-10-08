@@ -39,7 +39,7 @@
     },
     {
       "icon": "Award",
-      "label": "Predaných ",
+      "label": "Predaných obta",
       "value": "8"
     },
     {
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:56:15.622Z"
+  "lastUpdated": "2025-10-08T12:56:16.103Z"
 }

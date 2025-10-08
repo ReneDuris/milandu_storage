@@ -1,6 +1,6 @@
 {
   "artist": {
-    "name": "M",
+    "name": "Milan ",
     "title": "Maliar",
     "bio": "MaÄ¾ujem uÅ¾ niekoÄ¾ko rokov. RÃ¡d SkÃºÅ¡am novÃ© techniky a rÃ´zne Å¡t",
     "longBio": "Pracujem hlavne s olejovÃÂÃÂ½mi farbami. NiektorÃÂÃÂ© obrazy majÃÂÃÂº konkrÃÂÃÂ©tny motÃÂÃÂ­v, inÃÂÃÂ© sÃÂÃÂº ÃÂÃÂisto abstraktnÃÂÃÂ©. KaÃÂÃÂ¾dÃÂÃÂ½ obraz ma inÃÂÃÂ½ prÃÂÃÂ­beh.",
@@ -29,45 +29,45 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "NamalovanÃÂÃÂÃÂÃÂ½ch Obrazov",
+      "label": "NamalovanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ch Obrazov",
       "value": "45+"
     },
     {
       "icon": "Users",
-      "label": "Rokov MaÃÂÃÂÃÂÃÂ¾ujem",
+      "label": "Rokov MaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾ujem",
       "value": "3"
     },
     {
       "icon": "Award",
-      "label": "PredanÃÂÃÂÃÂÃÂ½ch Obrazov",
+      "label": "PredanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ch Obrazov",
       "value": "8"
     },
     {
       "icon": "Heart",
-      "label": "SpoÃÂÃÂÃÂÃÂ¾ahlivÃÂÃÂÃÂÃÂ½ch ZÃÂÃÂÃÂÃÂ¡kaznÃÂÃÂÃÂÃÂ­kov",
+      "label": "SpoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾ahlivÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ch ZÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡kaznÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­kov",
       "value": "12"
     }
   ],
   "footer": {
-    "description": "MaÃÂÃÂÃÂÃÂ¾ujem obrazy rÃÂÃÂÃÂÃÂ´znych ÃÂÃÂÃÂÃÂ¡tÃÂÃÂÃÂÃÂ½lov a veÃÂÃÂÃÂÃÂ¾kostÃÂÃÂÃÂÃÂ­. Ak mÃÂÃÂÃÂÃÂ¡te zÃÂÃÂÃÂÃÂ¡ujem o niektory z obrazov, kontaktujte ma.",
-    "copyrightText": "VÃÂÃÂÃÂÃÂ¡etky prÃÂÃÂÃÂÃÂ¡va vyhradenÃÂÃÂÃÂÃÂ©.",
-    "tagline": "MaÃÂÃÂÃÂÃÂ¾ovanie s lÃÂÃÂÃÂÃÂ¡skou k umeniu"
+    "description": "MaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾ujem obrazy rÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´znych ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡tÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½lov a veÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾kostÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­. Ak mÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡te zÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ujem o niektory z obrazov, kontaktujte ma.",
+    "copyrightText": "VÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡etky prÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡va vyhradenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©.",
+    "tagline": "MaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾ovanie s lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡skou k umeniu"
   },
   "hero": {
-    "title": "Vitajte v mojej galÃÂÃÂÃÂÃÂ©rii",
-    "subtitle": "SlovenskÃÂÃÂÃÂÃÂ½ maÃÂÃÂÃÂÃÂ¾iar",
-    "description": "Objavte moju kolekciu originÃÂÃÂÃÂÃÂ¡lnych obrazov. KaÃÂÃÂÃÂÃÂ¾dÃÂÃÂÃÂÃÂ© dielo je jedineÃÂÃÂÃÂÃÂnÃÂÃÂÃÂÃÂ© a vytvorenÃÂÃÂÃÂÃÂ© s lÃÂÃÂÃÂÃÂ¡skou k umeniu.",
+    "title": "Vitajte v mojej galÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©rii",
+    "subtitle": "SlovenskÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ maÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾iar",
+    "description": "Objavte moju kolekciu originÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡lnych obrazov. KaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾dÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© dielo je jedineÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂnÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© a vytvorenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© s lÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡skou k umeniu.",
     "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
   },
   "gallery": {
-    "title": "GalÃÂÃÂÃÂÃÂ©ria",
+    "title": "GalÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©ria",
     "subtitle": "Moja tvorba"
   },
   "metadata": {
-    "siteName": "Milan DuriÃÂÃÂÃÂÃÂ¡ - MaÃÂÃÂÃÂÃÂ¾iar",
-    "description": "SlovenskÃÂÃÂÃÂÃÂ½ maÃÂÃÂÃÂÃÂ¾iar Milan DuriÃÂÃÂÃÂÃÂ¡. OriginÃÂÃÂÃÂÃÂ¡lne obrazy rÃÂÃÂÃÂÃÂ´znych ÃÂÃÂÃÂÃÂ¡tÃÂÃÂÃÂÃÂ½lov a veÃÂÃÂÃÂÃÂ¾kostÃÂÃÂÃÂÃÂ­.",
+    "siteName": "Milan DuriÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡ - MaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾iar",
+    "description": "SlovenskÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½ maÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾iar Milan DuriÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡. OriginÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡lne obrazy rÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´znych ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡tÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ½lov a veÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾kostÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­.",
     "keywords": [
-      "maÃÂÃÂÃÂÃÂ¾iar",
+      "maÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¾iar",
       "obrazy",
       "umenie",
       "slovakia",
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:48:35.707Z"
+  "lastUpdated": "2025-10-08T12:48:36.739Z"
 }

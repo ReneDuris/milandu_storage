@@ -29,7 +29,7 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "Namaľovanź Obrazov",
+      "label": "Namaľovanýc Obrazov",
       "value": "45+"
     },
     {
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:55:55.512Z"
+  "lastUpdated": "2025-10-08T12:55:56.150Z"
 }

@@ -55,7 +55,7 @@
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "Slovenský Mal",
+    "subtitle": "Slovensk",
     "description": "Objavte moju kolekciu originÃÂÃÂÃÂÃÂ¡lnych obrazov. KaÃÂÃÂÃÂÃÂ¾dÃÂÃÂÃÂÃÂ© dielo je jedineÃÂÃÂÃÂÃÂnÃÂÃÂÃÂÃÂ© a vytvorenÃÂÃÂÃÂÃÂ© s lÃÂÃÂÃÂÃÂ¡skou k umeniu.",
     "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
   },
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:59:21.468Z"
+  "lastUpdated": "2025-10-08T12:59:22.100Z"
 }

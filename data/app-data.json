@@ -1,9 +1,9 @@
 {
   "artist": {
-    "name": "Milan DuriÅ¡",
+    "name": "Milan Duri+",
     "title": "Maliar",
-    "bio": "Maľujem už niekoľko rokov a stále sa učím nové techniky. Rád skúšam rôzne štýly - od klasických portrétov až po moderné abstraktné obrazy.",
-    "longBio": "Pracujem hlavne s olejovÃ½mi farbami. NiektorÃ© obrazy majÃº konkrÃ©tny motÃ­v, inÃ© sÃº Äisto abstraktnÃ©. KaÅ¾dÃ½ obraz ma inÃ½ prÃ­beh.",
+    "bio": "MaÄ¾ujem uÅ¾ niekoÄ¾ko rokov a stÃ¡le sa uÄÃ­m novÃ© techniky. RÃ¡d skÃºÅ¡am rÃ´zne Å¡tÃ½ly - od klasickÃ½ch portrÃ©tov aÅ¾ po modernÃ© abstraktnÃ© obrazy.",
+    "longBio": "Pracujem hlavne s olejovÃÂ½mi farbami. NiektorÃÂ© obrazy majÃÂº konkrÃÂ©tny motÃÂ­v, inÃÂ© sÃÂº ÃÂisto abstraktnÃÂ©. KaÃÂ¾dÃÂ½ obraz ma inÃÂ½ prÃÂ­beh.",
     "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop&crop=faces",
     "experienceYears": 3
   },
@@ -29,45 +29,45 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "NamalovanÃ½ch Obrazov",
+      "label": "NamalovanÃÂ½ch Obrazov",
       "value": "45+"
     },
     {
       "icon": "Users",
-      "label": "Rokov MaÄ¾ujem",
+      "label": "Rokov MaÃÂ¾ujem",
       "value": "3"
     },
     {
       "icon": "Award",
-      "label": "PredanÃ½ch Obrazov",
+      "label": "PredanÃÂ½ch Obrazov",
       "value": "8"
     },
     {
       "icon": "Heart",
-      "label": "SpoÄ¾ahlivÃ½ch ZÃ¡kaznÃ­kov",
+      "label": "SpoÃÂ¾ahlivÃÂ½ch ZÃÂ¡kaznÃÂ­kov",
       "value": "12"
     }
   ],
   "footer": {
-    "description": "MaÄ¾ujem obrazy rÃ´znych Å¡tÃ½lov a veÄ¾kostÃ­. Ak mÃ¡te zÃ¡ujem o niektory z obrazov, kontaktujte ma.",
-    "copyrightText": "VÅ¡etky prÃ¡va vyhradenÃ©.",
-    "tagline": "MaÄ¾ovanie s lÃ¡skou k umeniu"
+    "description": "MaÃÂ¾ujem obrazy rÃÂ´znych ÃÂ¡tÃÂ½lov a veÃÂ¾kostÃÂ­. Ak mÃÂ¡te zÃÂ¡ujem o niektory z obrazov, kontaktujte ma.",
+    "copyrightText": "VÃÂ¡etky prÃÂ¡va vyhradenÃÂ©.",
+    "tagline": "MaÃÂ¾ovanie s lÃÂ¡skou k umeniu"
   },
   "hero": {
-    "title": "Vitajte v mojej galÃ©rii",
-    "subtitle": "SlovenskÃ½ maÄ¾iar",
-    "description": "Objavte moju kolekciu originÃ¡lnych obrazov. KaÅ¾dÃ© dielo je jedineÄnÃ© a vytvorenÃ© s lÃ¡skou k umeniu.",
+    "title": "Vitajte v mojej galÃÂ©rii",
+    "subtitle": "SlovenskÃÂ½ maÃÂ¾iar",
+    "description": "Objavte moju kolekciu originÃÂ¡lnych obrazov. KaÃÂ¾dÃÂ© dielo je jedineÃÂnÃÂ© a vytvorenÃÂ© s lÃÂ¡skou k umeniu.",
     "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
   },
   "gallery": {
-    "title": "GalÃ©ria",
+    "title": "GalÃÂ©ria",
     "subtitle": "Moja tvorba"
   },
   "metadata": {
-    "siteName": "Milan DuriÅ¡ - MaÄ¾iar",
-    "description": "SlovenskÃ½ maÄ¾iar Milan DuriÅ¡. OriginÃ¡lne obrazy rÃ´znych Å¡tÃ½lov a veÄ¾kostÃ­.",
+    "siteName": "Milan DuriÃÂ¡ - MaÃÂ¾iar",
+    "description": "SlovenskÃÂ½ maÃÂ¾iar Milan DuriÃÂ¡. OriginÃÂ¡lne obrazy rÃÂ´znych ÃÂ¡tÃÂ½lov a veÃÂ¾kostÃÂ­.",
     "keywords": [
-      "maÄ¾iar",
+      "maÃÂ¾iar",
       "obrazy",
       "umenie",
       "slovakia",
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-07T22:04:36.597Z"
+  "lastUpdated": "2025-10-08T12:43:18.325Z"
 }

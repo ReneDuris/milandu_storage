@@ -55,7 +55,7 @@
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "OriginálnMaliar",
+    "subtitle": "Originálny Maliar",
     "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné namiešané originálnymi farbami.",
     "backgroundImage": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1920&h=1080&fit=crop"
   },
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T13:50:58.710Z"
+  "lastUpdated": "2025-10-08T13:50:59.687Z"
 }

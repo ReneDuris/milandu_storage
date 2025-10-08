@@ -41,11 +41,6 @@
       "icon": "Award",
       "label": "Predaných obrazov",
       "value": "8"
-    },
-    {
-      "icon": "Heart",
-      "label": "Spolu rokov",
-      "value": "12"
     }
   ],
   "footer": {
@@ -75,5 +70,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T13:51:02.908Z"
+  "lastUpdated": "2025-10-08T13:55:16.792Z"
 }

@@ -46,11 +46,6 @@
       "icon": "Heart",
       "label": "Spolu rokov",
       "value": "12"
-    },
-    {
-      "icon": "Palette",
-      "label": "Nová štatistika",
-      "value": "0"
     }
   ],
   "footer": {
@@ -80,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:58:54.780Z"
+  "lastUpdated": "2025-10-08T12:59:01.828Z"
 }

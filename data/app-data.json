@@ -44,7 +44,7 @@
     },
     {
       "icon": "Heart",
-      "label": "S",
+      "label": "Sp",
       "value": "12"
     }
   ],
@@ -75,5 +75,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-08T12:56:20.138Z"
+  "lastUpdated": "2025-10-08T12:56:21.423Z"
 }

@@ -182,5 +182,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760220360260-ymk4xzw3q"
+  },
+  {
+    "title": "Buddha",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Buddha",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760220530913_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 80,
+      "height": 80
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760220545697-aybp5niid"
   }
 ]

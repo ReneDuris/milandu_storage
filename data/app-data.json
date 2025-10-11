@@ -50,7 +50,7 @@
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "Ma",
+    "subtitle": "Maliar",
     "description": "Objavte moje diela obalené mojou vášňou k maľovaniu"
   },
   "gallery": {
@@ -69,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T13:04:42.541Z"
+  "lastUpdated": "2025-10-11T13:04:47.629Z"
 }

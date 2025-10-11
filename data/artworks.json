@@ -23,22 +23,22 @@
     "id": "artwork-1759872186929-k1lejdku5"
   },
   {
-    "title": "Plachetnica",
+    "title": "Po búrke ",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "Na vlnách mora",
+    "description": "Po búrke sa ľoď vracia späť do prístavu.",
     "images": [
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759872195710_0.jpg"
     ],
     "year": 2025,
     "medium": "Olejomaľba",
     "dimensions": {
-      "width": 60,
-      "height": 60
+      "width": 50,
+      "height": 30
     },
     "price": 40,
     "status": "available",

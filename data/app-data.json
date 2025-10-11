@@ -3,7 +3,7 @@
     "name": "Milan Ďuriš",
     "title": "",
     "bio": "Začal som maľovať s akrylovými farbami v roku 2022 a olejovými farbami v roku 2024.",
-    "longBio": "Som amatérsky maliar a od roku 2022 som namaľoval viac než 250 malieb a vďaka tomu som nabral viac skúseností. Akrylové farby sú výborné pre začiatočníkov a po dvoch rokoch som zistil , že olejové farby vo všetkom vynikajú. Rád maľujem krajinky ale nemám problém s namalovaním hocičoho, ",
+    "longBio": "Som amatérsky maliar a od roku 2022 som namaľoval viac než 250 malieb a vďaka tomu som nabral viac skúseností. Akrylové farby sú výborné pre začiatočníkov a po dvoch rokoch som zistil , že olejové farby vo všetkom vynikajú. Rád maľujem krajinky ale nemám problém s namalovaním hocičoho, mám rád nové výzvy a rád skúšam rôzne techniky ako aj média (oleje-stand oil,pine turpentine, walnut oil).",
     "profileImage": "",
     "experienceYears": 3
   },
@@ -29,7 +29,7 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "Namalovaných Obrazov",
+      "label": "Namaľovaných Obrazov",
       "value": "45+"
     },
     {
@@ -39,34 +39,29 @@
     },
     {
       "icon": "Award",
-      "label": "Predaných Obrazov",
+      "label": "Predaných obrazov",
       "value": "8"
-    },
-    {
-      "icon": "Heart",
-      "label": "Spoľahlivých Zákazníkov",
-      "value": "12"
     }
   ],
   "footer": {
-    "description": "Maľujem obrazy rôznych štýlov a veľkostí. Ak máte záujem o niektory z obrazov, kontaktujte ma.",
-    "copyrightText": "Všetky práva vyhradené.",
-    "tagline": "Maľovanie s láskou k umeniu"
+    "description": "Maľujem obrazy rôznych veľkostí­. Ak máte záujem o niektorí z obrazov, kontaktujte ma.",
+    "copyrightText": "Všetky práva vyhradené ©.",
+    "tagline": "Milan Ďuriš - umelec"
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "Slovenský maľiar",
-    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné a vytvorené s láskou k umeniu."
+    "subtitle": "",
+    "description": "Objavte moje"
   },
   "gallery": {
     "title": "Galéria",
     "subtitle": "Moja tvorba"
   },
   "metadata": {
-    "siteName": "Milan Duriš - Maľiar",
-    "description": "Slovenský maľiar Milan Duriš. Originálne obrazy rôznych štýlov a veľkostí.",
+    "siteName": "Milan Ďuriš - maliar",
+    "description": "Slovenský maliar Milan Ďuriš. Originálne obrazy.",
     "keywords": [
-      "maľiar",
+      "maliar",
       "obrazy",
       "umenie",
       "slovakia",
@@ -74,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T12:11:27.582Z"
+  "lastUpdated": "2025-10-11T12:36:37.326Z"
 }

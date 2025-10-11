@@ -136,5 +136,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760218280045-6w2f9gvrj"
+  },
+  {
+    "title": "Detstvo",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Darované rodine",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760220182307_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760220193639-gk4wramlh"
   }
 ]

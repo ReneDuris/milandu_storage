@@ -104,7 +104,7 @@
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760218010733_0.jpg"
     ],
     "year": 2024,
-    "medium": "Akryl",
+    "medium": "Akryl na plátne",
     "dimensions": {
       "width": 40,
       "height": 40
@@ -136,28 +136,5 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760218280045-6w2f9gvrj"
-  },
-  {
-    "title": "PSG estate",
-    "artist": {
-      "id": "milan-duris",
-      "name": "Milan Duriš",
-      "bio": "Slovenský maliar",
-      "avatar": "/api/placeholder/100/100"
-    },
-    "description": "Darované",
-    "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760220010804_0.jpg"
-    ],
-    "year": 2025,
-    "medium": "Olejomaľba",
-    "dimensions": {
-      "width": 30,
-      "height": 60
-    },
-    "price": 0,
-    "status": "showcase",
-    "category": "oil-painting",
-    "id": "artwork-1760220027944-kp8x7le30"
   }
 ]

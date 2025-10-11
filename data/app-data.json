@@ -2,7 +2,7 @@
   "artist": {
     "name": "Milan Ďuriš",
     "title": "",
-    "bio": "Začal som maľovať s akrylovými farbami v roku 2022 a post",
+    "bio": "Začal som maľovať s akrylovými farbami v roku 2022 ",
     "longBio": "Pracujem hlavne s olejovými farbami, svoje farby si miešam sám.",
     "profileImage": "",
     "experienceYears": 3
@@ -29,7 +29,7 @@
   "stats": [
     {
       "icon": "Palette",
-      "label": "Namaľovaných Obrazov",
+      "label": "Namalovaných Obrazov",
       "value": "45+"
     },
     {
@@ -39,29 +39,34 @@
     },
     {
       "icon": "Award",
-      "label": "Predaných obrazov",
+      "label": "Predaných Obrazov",
       "value": "8"
+    },
+    {
+      "icon": "Heart",
+      "label": "Spoľahlivých Zákazníkov",
+      "value": "12"
     }
   ],
   "footer": {
-    "description": "Maľujem obrazy rôznych veľkostí­. Ak máte záujem o niektorí z obrazov, kontaktujte ma.",
-    "copyrightText": "Všetky práva vyhradené ©.",
-    "tagline": "Milan Ďuriš - umelec"
+    "description": "Maľujem obrazy rôznych štýlov a veľkostí. Ak máte záujem o niektory z obrazov, kontaktujte ma.",
+    "copyrightText": "Všetky práva vyhradené.",
+    "tagline": "Maľovanie s láskou k umeniu"
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "Originálny Maliar",
-    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné namiešané originálnymi farbami."
+    "subtitle": "Slovenský maľiar",
+    "description": "Objavte moju kolekciu originálnych obrazov. Každé dielo je jedinečné a vytvorené s láskou k umeniu."
   },
   "gallery": {
     "title": "Galéria",
     "subtitle": "Moja tvorba"
   },
   "metadata": {
-    "siteName": "Milan Ďuriš - maliar",
-    "description": "Slovenský maliar Milan Ďuriš. Originálne obrazy.",
+    "siteName": "Milan Duriš - Maľiar",
+    "description": "Slovenský maľiar Milan Duriš. Originálne obrazy rôznych štýlov a veľkostí.",
     "keywords": [
-      "maliar",
+      "maľiar",
       "obrazy",
       "umenie",
       "slovakia",
@@ -69,5 +74,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T12:06:36.909Z"
+  "lastUpdated": "2025-10-11T12:06:37.882Z"
 }

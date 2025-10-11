@@ -50,7 +50,7 @@
   },
   "hero": {
     "title": "Vitajte v mojej galérii",
-    "subtitle": "Maliar teľom i dušou",
+    "subtitle": "Maliar teľom i ",
     "description": "Objavte moje diela obalené mojou vášňou k maľovaniu"
   },
   "gallery": {
@@ -69,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T13:04:57.909Z"
+  "lastUpdated": "2025-10-11T13:04:58.959Z"
 }

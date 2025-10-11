@@ -159,5 +159,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760220193639-gk4wramlh"
+  },
+  {
+    "title": "Žiarivá jeseň",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Jeseň vie byť nádherne žiarivá a farebná.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760220312394_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 50,
+      "height": 40
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760220360260-ymk4xzw3q"
   }
 ]

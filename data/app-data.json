@@ -51,7 +51,7 @@
   "hero": {
     "title": "Vitajte v mojej galérii",
     "subtitle": "",
-    "description": "Objavte moje diela"
+    "description": "Objavte moje d"
   },
   "gallery": {
     "title": "Galéria",
@@ -69,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T13:04:00.676Z"
+  "lastUpdated": "2025-10-11T13:04:02.026Z"
 }

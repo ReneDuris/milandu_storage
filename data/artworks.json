@@ -46,24 +46,24 @@
     "id": "artwork-1759872221215-srrurqdam"
   },
   {
-    "title": "V lese",
+    "title": "Oáza pokoja",
     "artist": {
       "id": "milan-duris",
       "name": "Milan Duriš",
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "Krásny les, plný pokoja.",
+    "description": "Tento miešaný les plný, ihličnatých a listnatých stromov je oáza pokoja.",
     "images": [
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1759933368451_0.jpg"
     ],
     "year": 2025,
     "medium": "Olejomaľba",
     "dimensions": {
-      "width": 60,
-      "height": 80
+      "width": 20,
+      "height": 30
     },
-    "price": 50,
+    "price": 30,
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1759933403343-u51i23ipt"

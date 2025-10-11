@@ -113,5 +113,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760218038238-x7feorcg9"
+  },
+  {
+    "title": "kostol Najsvätejšieho Srdca Ježišovho v Trnave 40x50 olej na plátno",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Darované Trnavskému kňazovi Vladimírovi Bartkovi",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760218272253_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "olejomaľba",
+    "dimensions": {
+      "width": 40,
+      "height": 50
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760218280045-6w2f9gvrj"
   }
 ]

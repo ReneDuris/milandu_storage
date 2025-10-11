@@ -67,5 +67,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1759933403343-u51i23ipt"
+  },
+  {
+    "title": "Jesenný les",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Les plný farieb jesene dopĺňa jeleň spôsobujúci šum lístia.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760181465856_0.heic"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 30,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760184198141-fxuuqibvk"
   }
 ]

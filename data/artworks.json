@@ -90,5 +90,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760184198141-fxuuqibvk"
+  },
+  {
+    "title": "Kostol Mena Panny Márie v Horných Orešanoch",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Darované Orešanskému farárovi Vojtkovi",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760218010733_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Akryl",
+    "dimensions": {
+      "width": 40,
+      "height": 40
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760218038238-x7feorcg9"
   }
 ]

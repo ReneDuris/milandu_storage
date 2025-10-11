@@ -30,7 +30,7 @@
     {
       "icon": "Palette",
       "label": "Namaľovaných Obrazov",
-      "value": "20l"
+      "value": "2"
     },
     {
       "icon": "Users",
@@ -69,5 +69,5 @@
       "painting"
     ]
   },
-  "lastUpdated": "2025-10-11T16:15:41.852Z"
+  "lastUpdated": "2025-10-11T16:15:42.432Z"
 }

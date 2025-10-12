@@ -481,5 +481,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760269715450-5j0aipaom"
+  },
+  {
+    "title": "Poľná cestička",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Cestička, ktorá vedie na pole",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760269808561_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 50,
+      "height": 30
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760269831149-aywkq5e9e"
   }
 ]

@@ -458,5 +458,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760269557715-02wz7jsvd"
+  },
+  {
+    "title": "Purpurový západ slnka",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Purpurovú oblohu a pole rozžaruje slnko, ktoré zapadne pomaly za hory",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760269598561_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 50,
+      "height": 30
+    },
+    "price": 40,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760269715450-5j0aipaom"
   }
 ]

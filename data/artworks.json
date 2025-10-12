@@ -481,5 +481,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760269715450-5j0aipaom"
+  },
+  {
+    "title": "Kaštieľ v Budmericiach",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Jesenná atmosféra pri Budmerickom kaštieli",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760269965489_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 40,
+      "height": 60
+    },
+    "price": 0,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760269978405-a03x7u8iu"
   }
 ]

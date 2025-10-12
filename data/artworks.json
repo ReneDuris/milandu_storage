@@ -228,5 +228,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760248878439-kpvfw968y"
+  },
+  {
+    "title": "Malá gorila",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Malá gorila",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760250569795_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760250577537-0pz0si3r7"
   }
 ]

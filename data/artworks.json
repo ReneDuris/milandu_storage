@@ -366,5 +366,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760256410504-8xnq40jn3"
+  },
+  {
+    "title": "Vlny za večerného mesiaca",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Mesiac svieti ešte za skorého večera na rozbúrené more",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760256563710_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olej na lepenke",
+    "dimensions": {
+      "width": 30,
+      "height": 30
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760256612289-cuqvq57uk"
   }
 ]

@@ -228,5 +228,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760248878439-kpvfw968y"
+  },
+  {
+    "title": "R GSX",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Maľované podľa fotky",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760249173214_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba ",
+    "dimensions": {
+      "width": 50,
+      "height": 40
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760249280155-ay9su0wix"
   }
 ]

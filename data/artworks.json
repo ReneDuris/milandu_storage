@@ -228,28 +228,5 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760248878439-kpvfw968y"
-  },
-  {
-    "title": "Západ slnka nad ľoďkou",
-    "artist": {
-      "id": "milan-duris",
-      "name": "Milan Duriš",
-      "bio": "Slovenský maliar",
-      "avatar": "/api/placeholder/100/100"
-    },
-    "description": "Nad ľoďkou zapadá slnko do oranžovej oblohy , ktorú dopĺňa už večerná obloha s hviezdami",
-    "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760250223547_0.jpg"
-    ],
-    "year": 2025,
-    "medium": "Akryl na plátno",
-    "dimensions": {
-      "width": 30,
-      "height": 50
-    },
-    "price": 40,
-    "status": "sold",
-    "category": "oil-painting",
-    "id": "artwork-1760250273134-nke8t0w3e"
   }
 ]

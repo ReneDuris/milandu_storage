@@ -297,5 +297,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760253050188-4thx2u9cv"
+  },
+  {
+    "title": "Čarovný východ slnka nad morom",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Východ slnka má nádherné čaro , ktoré dopĺňajú tyrkysové vlny",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760253330756_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olej na lepenke",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760253342073-e7w6hwg5g"
   }
 ]

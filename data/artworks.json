@@ -205,5 +205,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760220545697-aybp5niid"
+  },
+  {
+    "title": "Audi",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Audi",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760248807012_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba",
+    "dimensions": {
+      "width": 50,
+      "height": 25
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760248878439-kpvfw968y"
   }
 ]

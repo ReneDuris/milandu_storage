@@ -412,5 +412,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760261758070-6yfyjowi4"
+  },
+  {
+    "title": "Povodne v údoli",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Zdvihla sa hladina vody a zaplavila stromy.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760262832664_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 40,
+      "height": 60
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760262861272-iriq7plzz"
   }
 ]

@@ -81,12 +81,12 @@
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760196479648_0.jpg"
     ],
     "year": 2025,
-    "medium": "Olejomaľba na lepenke",
+    "medium": "Olejomaľba",
     "dimensions": {
       "width": 20,
       "height": 30
     },
-    "price": 25,
+    "price": 30,
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760184198141-fxuuqibvk"
@@ -362,7 +362,7 @@
       "width": 20,
       "height": 30
     },
-    "price": 30,
+    "price": 25,
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760256410504-8xnq40jn3"

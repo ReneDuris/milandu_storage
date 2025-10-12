@@ -320,5 +320,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760253342073-e7w6hwg5g"
+  },
+  {
+    "title": "Osamelá ľoď",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Čiernobiela maľba s trochou nádychu žltej",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760253401822_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátno",
+    "dimensions": {
+      "width": 40,
+      "height": 50
+    },
+    "price": 50,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760253469074-xry1bpnk7"
   }
 ]

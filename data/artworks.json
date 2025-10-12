@@ -412,5 +412,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760261758070-6yfyjowi4"
+  },
+  {
+    "title": "Po búrke",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Po búrke",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760267692900_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Olej na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 50
+    },
+    "price": 40,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760267791122-83bec3ze8"
   }
 ]

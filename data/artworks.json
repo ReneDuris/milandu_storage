@@ -780,5 +780,26 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760344725754-e60b9ixbh"
+  },
+  {
+    "title": "Osamelá chatka v horách",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Ohník v strede hôr vytvára teplý tón atmosféry.",
+    "images": [],
+    "year": 2025,
+    "medium": "Olejomaľba na lepenke",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760344887178-yagoz7esz"
   }
 ]

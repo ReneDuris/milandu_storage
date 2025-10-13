@@ -596,5 +596,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760340298224-sfd8cepdd"
+  },
+  {
+    "title": "Drevené mólo pri jazierku",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Drevené mólo pri jazierku.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760340311342_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 25,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760340401740-ue59nzwon"
   }
 ]

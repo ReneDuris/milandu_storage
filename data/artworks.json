@@ -527,28 +527,5 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760339681983-phh5r8si6"
-  },
-  {
-    "title": "Jesenná rieka",
-    "artist": {
-      "id": "milan-duris",
-      "name": "Milan Duriš",
-      "bio": "Slovenský maliar",
-      "avatar": "/api/placeholder/100/100"
-    },
-    "description": "Jeseň prichádza a s ňou prúdi aj jesenná rieka, v ktorej sa tie pekné farby odrážajú.",
-    "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760339699249_0.jpg"
-    ],
-    "year": 2025,
-    "medium": "Olejomaľba na plátno",
-    "dimensions": {
-      "width": 30,
-      "height": 30
-    },
-    "price": 0,
-    "status": "showcase",
-    "category": "oil-painting",
-    "id": "artwork-1760339848584-susq0n8tg"
   }
 ]

@@ -619,5 +619,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760340401740-ue59nzwon"
+  },
+  {
+    "title": "Zimný večer na poli",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Prvý sneh napadnutý na poli kontrastuje ešte s jesenným lístím.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760340553733_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760340645415-spf2u7a6u"
   }
 ]

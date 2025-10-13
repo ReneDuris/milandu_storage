@@ -573,5 +573,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760340121479-jeb372val"
+  },
+  {
+    "title": "Jarná prechádzka bicyklom",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Jarná prechádzka na bicykli smerom do mesta.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760340131761_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 30
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760340298224-sfd8cepdd"
   }
 ]

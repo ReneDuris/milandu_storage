@@ -734,5 +734,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760343021504-vi0nx4c0c"
+  },
+  {
+    "title": "Lúčne kvety",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Predané.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760343058704_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Akryl na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 40
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760343091505-2wazh6fo5"
   }
 ]

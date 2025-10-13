@@ -145,7 +145,7 @@
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "Darované rodine",
+    "description": "Darované rodine.Maľované podľa fotky.",
     "images": [
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760220182307_0.jpg"
     ],
@@ -720,7 +720,7 @@
       "bio": "Slovenský maliar",
       "avatar": "/api/placeholder/100/100"
     },
-    "description": "Maľované podľa fotky.",
+    "description": "Predané.",
     "images": [
       "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760342982354_0.jpg"
     ],

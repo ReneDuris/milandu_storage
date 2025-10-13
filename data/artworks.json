@@ -734,5 +734,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760343959145-7onnwcwv7"
+  },
+  {
+    "title": "Slnečnice pri ceste",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Slnečnice pri ceste",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760344622866_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760344627078-7j4pya730"
   }
 ]

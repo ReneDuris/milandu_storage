@@ -550,5 +550,28 @@
     "status": "showcase",
     "category": "oil-painting",
     "id": "artwork-1760340004690-14wo2zu7y"
+  },
+  {
+    "title": "Kvitnúca láska",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Keď kvitnú nie len kvety.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760340028605_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 60,
+      "height": 80
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760340121479-jeb372val"
   }
 ]

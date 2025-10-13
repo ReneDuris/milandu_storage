@@ -757,5 +757,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760344627078-7j4pya730"
+  },
+  {
+    "title": "Budúcnosť robotiky",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Budúcnosť robotiky",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760344708522_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na lepenke",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760344725754-e60b9ixbh"
   }
 ]

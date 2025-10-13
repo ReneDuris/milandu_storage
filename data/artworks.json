@@ -711,5 +711,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760341470655-t9eif2yq9"
+  },
+  {
+    "title": "R GSX",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Predané.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760342414957_0.jpg"
+    ],
+    "year": 2024,
+    "medium": "Olejomaľba",
+    "dimensions": {
+      "width": 30,
+      "height": 40
+    },
+    "price": 0,
+    "status": "sold",
+    "category": "oil-painting",
+    "id": "artwork-1760342565952-5gjw1zwvu"
   }
 ]

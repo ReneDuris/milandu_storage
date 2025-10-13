@@ -619,5 +619,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760340401740-ue59nzwon"
+  },
+  {
+    "title": "Malé jazierko",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Malé jazierko pri lúke.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760340414814_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "price": 0,
+    "status": "showcase",
+    "category": "oil-painting",
+    "id": "artwork-1760340473092-cpq6j29gh"
   }
 ]

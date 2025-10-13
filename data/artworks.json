@@ -780,28 +780,5 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760344725754-e60b9ixbh"
-  },
-  {
-    "title": "Záhradná chatka",
-    "artist": {
-      "id": "milan-duris",
-      "name": "Milan Duriš",
-      "bio": "Slovenský maliar",
-      "avatar": "/api/placeholder/100/100"
-    },
-    "description": "Maľované podľa fotky",
-    "images": [
-      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760349012682_0.jpg"
-    ],
-    "year": 2025,
-    "medium": "Olejomaľba na plátno",
-    "dimensions": {
-      "width": 50,
-      "height": 30
-    },
-    "price": 0,
-    "status": "sold",
-    "category": "oil-painting",
-    "id": "artwork-1760349016173-27kfw54yv"
   }
 ]

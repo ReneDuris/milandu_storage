@@ -803,5 +803,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760349166166-us3pqv6xs"
+  },
+  {
+    "title": "Pokojný domček v horách",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Ohníček v chatke dáva teplý tón do atmosféry chladných hôr.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760349615715_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na lepenke",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760349708829-iq7g5i81t"
   }
 ]

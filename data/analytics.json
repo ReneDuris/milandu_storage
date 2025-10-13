@@ -1,5 +1,5 @@
 {
-  "totalUniqueVisitors": 77,
+  "totalUniqueVisitors": 78,
   "dailyVisits": {
     "2025-10-07": 8,
     "2025-10-08": 34,
@@ -7,11 +7,10 @@
     "2025-10-10": 4,
     "2025-10-11": 9,
     "2025-10-12": 6,
-    "2025-10-13": 53
+    "2025-10-13": 55
   },
   "artworkViews": {
-    "artwork-1759872221215-srrurqdam": 1,
-    "artwork-1760349166166-us3pqv6xs": 1
+    "artwork-1759872221215-srrurqdam": 1
   },
   "artworkDetailViews": {
     "artwork-1759933403343-u51i23ipt": 5,
@@ -21,5 +20,5 @@
     "artwork-1760248878439-kpvfw968y": 1,
     "artwork-1760250743228-hfkcp6zch": 1
   },
-  "lastUpdated": "2025-10-13T20:38:09.145Z"
+  "lastUpdated": "2025-10-13T20:38:08.774Z"
 }

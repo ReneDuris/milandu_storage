@@ -734,5 +734,28 @@
     "status": "sold",
     "category": "oil-painting",
     "id": "artwork-1760343091505-2wazh6fo5"
+  },
+  {
+    "title": "Jesenný les",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Jesenný les.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760343921805_0.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na lepenke",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "price": 20,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760343959145-7onnwcwv7"
   }
 ]

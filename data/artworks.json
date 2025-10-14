@@ -826,5 +826,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760349708829-iq7g5i81t"
+  },
+  {
+    "title": "Maľovaná dedinka",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Dedinka na maľovanom plátne.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760482839860_0_2pw94b.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na plátne",
+    "dimensions": {
+      "width": 30,
+      "height": 15
+    },
+    "price": 30,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760482876433-j04dw73qq"
   }
 ]

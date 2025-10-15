@@ -826,5 +826,28 @@
     "status": "available",
     "category": "oil-painting",
     "id": "artwork-1760349708829-iq7g5i81t"
+  },
+  {
+    "title": "Večera pri svetielkach",
+    "artist": {
+      "id": "milan-duris",
+      "name": "Milan Duriš",
+      "bio": "Slovenský maliar",
+      "avatar": "/api/placeholder/100/100"
+    },
+    "description": "Už sa stmieva a svetielka tvoria perfektnú večernú atmosféru na posedenie.",
+    "images": [
+      "https://raw.githubusercontent.com/ReneDuris/milandu_storage/main/images/artwork_1760538107782_0_h7kqxo.jpg"
+    ],
+    "year": 2025,
+    "medium": "Olejomaľba na lepenke",
+    "dimensions": {
+      "width": 30,
+      "height": 30
+    },
+    "price": 25,
+    "status": "available",
+    "category": "oil-painting",
+    "id": "artwork-1760538251640-o1mea1yyl"
   }
 ]

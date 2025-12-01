@@ -28,7 +28,8 @@
     "2025-11-15": 1,
     "2025-11-17": 1,
     "2025-11-22": 1,
-    "2025-11-30": 2
+    "2025-11-30": 2,
+    "2025-12-01": 1
   },
   "artworkViews": {
     "artwork-1759872221215-srrurqdam": 1,
@@ -43,7 +44,7 @@
     "artwork-1760250743228-hfkcp6zch": 1,
     "artwork-1760349166166-us3pqv6xs": 1,
     "artwork-1760220545697-aybp5niid": 4,
-    "artwork-1760344725754-e60b9ixbh": 9,
+    "artwork-1760344725754-e60b9ixbh": 8,
     "artwork-1760253342073-e7w6hwg5g": 1,
     "artwork-1760218280045-6w2f9gvrj": 1,
     "artwork-1760349708829-iq7g5i81t": 1,
@@ -59,5 +60,5 @@
   "artworkLikes": {
     "artwork-1760344725754-e60b9ixbh": 0
   },
-  "lastUpdated": "2025-12-01T20:07:09.565Z"
+  "lastUpdated": "2025-12-01T20:07:09.644Z"
 }

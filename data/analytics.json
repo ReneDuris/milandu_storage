@@ -1,5 +1,5 @@
 {
-  "totalUniqueVisitors": 154,
+  "totalUniqueVisitors": 155,
   "dailyVisits": {
     "2025-10-07": 8,
     "2025-10-08": 34,
@@ -31,7 +31,8 @@
     "2025-11-30": 2,
     "2025-12-01": 2,
     "2025-12-02": 1,
-    "2025-12-06": 1
+    "2025-12-06": 1,
+    "2025-12-08": 2
   },
   "artworkViews": {
     "artwork-1759872221215-srrurqdam": 1,
@@ -63,5 +64,5 @@
   "artworkLikes": {
     "artwork-1760344725754-e60b9ixbh": 0
   },
-  "lastUpdated": "2025-12-08T11:01:33.700Z"
+  "lastUpdated": "2025-12-08T11:01:29.251Z"
 }
